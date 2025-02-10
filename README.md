@@ -1,7 +1,6 @@
 <h1 align="center"><b> Hello!, I'm Carlos   😼</b></h1>
 <!--  --> But, also I'm a
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=F3F7EA&center=true&vCenter=true&width=435&lines=Physics+Student;Self-taught;Active+Learner%2FResearcher;Love+to+solve+problems)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=F3F7EA&center=true&vCenter=true&width=435&lines=Physics+Student;Self-taught;Active+Learner%2FResearcher;Love+to+solve+problems" alt="Typing SVG" /></a>
 <br>
 
 
