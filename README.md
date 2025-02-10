@@ -12,9 +12,9 @@
 class About_me:
     def __init__(self):
         self.description = "I enjoy solving physics problems both theoretically and computationally.
-My interests lie in the applications of quantum field theory to condensed matter systems. However,
-I believe that true mastery of physics is achieved when the theory accurately predicts experimental
- results and explains physical phenomen."
+    My interests lie in the applications of quantum field theory to condensed matter systems. However,
+    I believe that true mastery of physics is achieved when the theory accurately predicts experimental
+    results and explains physical phenomen."
 
 from about_me import About_me
 
@@ -48,7 +48,7 @@ class Out_Academia(About_me):
 <p align="center">
 <a href="https://github.com/Rodapics">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rodapics&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rodapics&layout=donut&langs_count=6&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rodapics&layout=compact&langs_count=6&theme=algolia"/>
 </a>
 </p>
 
