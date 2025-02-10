@@ -1,9 +1,6 @@
 <h1 align="center"><b> Hello!, I'm Carlos   😼</b></h1>
 <!--  --> But, also I'm a
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=purple&size=40&center=true&vCenter=true&width=600&height=100&lines= Physics+Student;++;Self-taught,;Active+Learner/Researcher,;Love+to+solve+problems.."></a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=F3F7EA&center=true&vCenter=true&width=435&lines=Physics+Student;Self-taught;Active+Learner%2FResearcher;Love+to+solve+problems)](https://git.io/typing-svg)
 
 <br>
 
