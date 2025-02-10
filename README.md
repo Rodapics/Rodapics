@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hello! I'm Carlos Rodallega  😼 </h1>
+<h2>Physicist ⚛️ and Content Creator 📽</h2>
 
-<!--
-**Rodapics/Rodapics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little about me
+  - I'm 22 years old adn I am from Cali, Valle del Cauca, Colombia.
+  - asdasd
+  - asdasd
+
+### Research Interest
+  - I'm 22 years old adn I am from Cali, Valle del Cauca, Colombia.
+  - asdasd
+  - asdasd
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/email-me)](rodallega.carlos@correounivalle.edu.co)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrodallega/)
