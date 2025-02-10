@@ -18,20 +18,22 @@ class AboutMe:
         self.description_extension = """Finally, what I really found interesting is programming huge codes
         on a physical model and using parallel programming. """
 
-from about_me import About_me
+from about_me import AboutMe
 
 
 class Academia(About_me):
     def __init__(self):
+        super().__init__()
         self.name = "Carlos Andres Rodallega Millan "
         self.age = 22
         self.title = "Bachelor of Science in Physics"
         self.current_Edu = "University of Valle"
-        self.Research interest = ['Condensed Matter', 'Cold Atoms', 'Quantum Magnetism', 'Phase', 'etc']
+        self.Research_interest = ['Condensed Matter', 'Cold Atoms', 'Quantum Magnetism', 'Phase', 'etc']
         self.location = "Cali, Colombia"
 
-class Out_Academia(About_me):
+class OutAcademia(About_me):
     def __init__(self):
+        super().__init__()
         self.Programming = ["JavaScript", "PHP"]
         self.hobbies =["Being_up all_Night_chasing_that_ONE_BUG... ",
         "Replicate_results_of_numerical_books (coming soon some papers) ",
