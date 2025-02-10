@@ -15,6 +15,8 @@ class AboutMe:
         My interests lie in the applications of quantum field theory to condensed matter systems. However,
         I believe that true mastery of physics is achieved when the theory accurately predicts experimental
         results and explains physical phenomena."""
+        self.description_extension = """Finally, what I really found interesting is programming huge codes
+        on a physical model and using parallel programming. """
 
 from about_me import About_me
 
