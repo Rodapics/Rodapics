@@ -1,16 +1,11 @@
+# Welcome :)
 <h1 align="center"><b> Hello!, I'm Carlos   😼</b></h1>
 <!--  --> But, also I'm a
 
 <h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=F3F7EA&center=true&vCenter=true&width=435&lines=Physics+Student;Self-taught;Active+Learner%2FResearcher;Love+to+solve+problems" alt="Typing SVG" /></a>
 <br>
-
-<h1> 
-<h2>Physicist ⚛️ and Content Creator 📽</h2>
-
-# Welcome :)
-
-
+    
 ### A little about me
 ```python
 
@@ -53,7 +48,7 @@ class Out_Academia(About_me):
 <p align="center">
 <a href="https://github.com/Rodapics">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rodapics&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rodapics&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rodapics&layout=donut&langs_count=6&theme=algolia"/>
 </a>
 </p>
 
