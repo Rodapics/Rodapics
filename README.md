@@ -22,6 +22,7 @@ from about_me import About_me
 class Academia(About_me):
     def __init__(self):
         self.name = "Carlos Andres Rodallega Millan "
+        self.age = 22
         self.title = "Bachelor of Science in Physics"
         self.current_Edu = "University of Valle"
         self.Research interest = ['Condensed Matter', 'Cold Atoms', 'Quantum Magnetism', 'Phase', 'etc']
