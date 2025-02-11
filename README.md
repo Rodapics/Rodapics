@@ -36,7 +36,7 @@ class Academia(About_me):
 class OutAcademia(About_me):
     def __init__(self):
         super().__init__()
-        self.Programming = ["JavaScript", "PHP"]
+        self.Programming = ["C++", "Phyton", "Mathematica", "Matlab", "COMSOL"]
         self.hobbies =["Being_up all_Night_chasing_that_ONE_BUG... ",
         "Replicate_results_of_numerical_books (coming soon some papers) ",
         "Watching_Anime ","Reading_Sci-Fi_Novels"]
