@@ -1,7 +1,7 @@
 # Welcome :)
 <h1 align="center"><b> Hello!, I'm Carlos   😼</b></h1>
 <!--  --> But, also I'm 
-<!-- Hi, Prof. Tao Lie -->
+<!-- Hi, Prof. Tao Lie :) -->
 
 
 <h1>
