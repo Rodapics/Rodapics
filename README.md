@@ -11,7 +11,7 @@
 ### A little about me
 ```python
 
-class AboutMe:
+class About_Me:
     def __init__(self):
         self.description = """I enjoy solving physics problems both theoretically and computationally.
         My interests lie in the applications of quantum field theory to condensed matter systems. However,
@@ -20,30 +20,27 @@ class AboutMe:
         self.description_extension = """Finally, what I really found interesting is programming huge codes
         on a physical model and using parallel programming. """
 
-from about_me import AboutMe
-
-
 class Academia(About_me):
     def __init__(self):
         super().__init__()
         self.name = "Carlos Andres Rodallega Millan "
         self.age = 22
         self.title = "Bachelor of Science in Physics"
-        self.current_Edu = "University of Valle"
-        self.Research_interest = ['Condensed Matter', 'Cold Atoms', 'Quantum Magnetism', 'Phase', 'etc']
+        self.current_edu = "University of Valle"
+        self.research_interest = ['Condensed Matter', 'Cold Atoms', 'Quantum Magnetism', 'Phase', 'etc']
         self.location = "Cali, Colombia"
 
 class OutAcademia(About_me):
     def __init__(self):
         super().__init__()
-        self.Programming = ["C++", "Phyton", "Mathematica", "Matlab", "COMSOL"]
+        self.programming = ["C++", "Python", "Wolfram Mathematica", "Matlab", "COMSOL"]
         self.hobbies =["Being_up all_Night_chasing_that_ONE_BUG... ",
         "Replicate_results_of_numerical_books (coming soon some papers) ",
         "Watching_Anime ","Reading_Sci-Fi_Novels"]
-        self.Languages =["Spanish","English", "Portuguese (A1)"]
-        self.Ambitions_2025 =["Apply_to_Phd ", "Finish_mybook", "Learn_French",
-         "An Another 100 awesome AmbitionsHere"]
-        self.Leadership = ["IPT_Captain","Volleyball_Team_Member"]
+        self.languages =["Spanish","English", "Portuguese (A1)"]
+        self.ambitions_2025 =["Apply_to_Phd ", "Finish_mybook", "Learn_French",
+         "Add Another 100 awesome AmbitionsHere :D "]
+        self.leadership = ["IPT_Captain","Volleyball_Team_Member"]
 
 ```
 
